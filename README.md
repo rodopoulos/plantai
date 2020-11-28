@@ -1,4 +1,4 @@
-# platai
+# plantai
 
 Plantai is personal house plant tracking system, with an embedded encyclopedia.
 
@@ -7,28 +7,28 @@ made for many platforms.
 
 ## Developent
 
-To install platai, you must have Golang >= 1.14 installed at your environent.
+To install plantai, you must have Golang >= 1.14 installed at your environent.
 Then, run the following:
 
 ```sh
 $ make install
 ```
 
-You can check the program usage, using `platai help`:
+You can check the program usage, using `plantai help`:
 
 ```
-$ platai help
-platai targets Cachalote Wix ecommerce, managing customer queues for products
+$ plantai help
+plantai targets Cachalote Wix ecommerce, managing customer queues for products
 
 Usage:
-  platai [command]
+  plantai [command]
 
 Available Commands:
   help        Help about any command
-  serve       start platai in server mode
+  serve       start plantai in server mode
 
 Flags:
-  -h, --help   help for platai
+  -h, --help   help for plantai
 
-Use "platai [command] --help" for more information about a command.
+Use "plantai [command] --help" for more information about a command.
 ```
